@@ -7,7 +7,7 @@ An SCII Protoss (Stalker-Rush) Build in C++
 ## Credit to my Team-mates
 - [Chris](https://github.com/chris5ualberta)
 - [Tony](https://github.com/TonyHu72)
-- [Iftemum](https://github.com/iftemum)
+- [Daniel]([https://github.com/iftemum](https://github.com/Byvalvin))
 
 ## Credit to our Supervisors
 - Jake Tuero
